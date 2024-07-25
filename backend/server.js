@@ -13,7 +13,15 @@ const endpoint = 'https://varun-singh-2004.cognitiveservices.azure.com/';
 
 const textAnalyticsClient = new TextAnalyticsClient(endpoint, new AzureKeyCredential(key));
 
-app.use(cors());
+const corsOptions = {
+  origin: 'https://example.com', // Specific origin
+  methods: 'GET,POST,PUT,DELETE', // Allowed methods
+  allowedHeaders: 'Content-Type,Authorization', // Allowed headers
+  credentials: true, // Credentials are allowed
+};
+
+app.use(cors(corsOptions));
+
 app.use(express.json());
 
 app.post('/analyze', async (req, res) => {
