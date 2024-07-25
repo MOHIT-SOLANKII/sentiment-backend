@@ -14,7 +14,7 @@ const endpoint = 'https://varun-singh-2004.cognitiveservices.azure.com/';
 const textAnalyticsClient = new TextAnalyticsClient(endpoint, new AzureKeyCredential(key));
 
 const corsOptions = {
-  origin: 'https://example.com', // Specific origin
+  origin: 'https://sentimentalanalysis-ahqe.onrender.com', // Specific origin
   methods: 'GET,POST,PUT,DELETE', // Allowed methods
   allowedHeaders: 'Content-Type,Authorization', // Allowed headers
   credentials: true, // Credentials are allowed
