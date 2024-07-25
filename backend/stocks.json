@@ -1,83 +1,23 @@
 [
-    {
-      "stockName": "NVIDIA",
-      "text": "$nvda  Top analyst price target for next week  -:~ https://t.co/0fjpt24Gak"
-    },
-    {
-      "stockName": "Apple",
-      "text": "$nvda Top analyst price target for this week.🔗 https://t.co/dOXHLp1kRd   🚀"
-    },
-    {
-      "stockName": "Tesla",
-      "text": "$nvda Top analyst price target for next week.....\nhttps://t.co/ql5xSE1PY2"
-    },
-    {
-      "stockName": "Google",
-      "text": "Stock of google is rising in a great way.Good news for investors."
-    },
-    {
-      "stockName": "Facebook",
-      "text": "$rsls rebound 🚨🚨🚀🚀🚀\n————\n\n$EDSA\n$KODK\n$DOW\n$GNUS\n$IDEX\n$BSBS\n$TSLA\n$TAOP\n$JFK\n$CEMI\n$SPY\n$SHOP\n$SMZN\n$NVDA\n$ROKU\n$EBAY\n$AMD\n$AAPL"
-    },
-    {
-      "stockName": "Amazon",
-      "text": "$NVDA Top analyst price target for next week📈📉..🚀\nhttps://t.co/ql5xSE1PY2"
-    },
-    {
-      "stockName": "Microsoft",
-      "text": "$AKAN $0.288  European #marijuana trading higher on NASDAQ - Nice premarket volume\n $SIRI  $SCHW $HD $KR $GM $TM $VWAGY\n$HOOD $LYFT $UBER $FISV $SYMC $SWKS $CA $STX $CMCSA $SBUX $SNOW $PLAY $NKLA $INO $DKNG $PTON $WKHS $SPAQ $JCPNQ $BA $BBIG\n$AMZN $TSLA $WMT $TGT $NVDA $SPY $GLD https://t.co/Zk1R5Qv0b5"
-    },
-    {
-      "stockName": "Intel",
-      "text": "If youfound this info helpful\n\nLike, Share, RT and Follow for more\n\n#stocks #OptionsTrading #investing #StockMarket $SPY $QQQ $NVDA $TSLA $AAPL $MSFT"
-    },
-    {
-      "stockName": "Adobe",
-      "text": "My trade strategy and indicators:\n⚠️Not Financial Advice⚠️\nA Thread🧵\n——————\n\n•EMAs 9, 14, 21, 113 (most important)\n•VWAP\n•VRVP\n•BT Cloud\n•Caleb Zones/Posty Pivots\n\nThis honestly works on any time frame I use 5m, 10m, 15m, 30m, 1h, 4hr, 1D\n$SPY $QQQ $NVDA $TSLA $AAPL $MSFT"
-    },
-    {
-      "stockName": "Netflix",
-      "text": "$NVDA *Top analyst target price for next week**  https://t.co/bzjgX1XUmH"
-    },
-    {
-      "stockName": "PayPal",
-      "text": "$nvda    LEVELS POSTED FOR STOCKS BEFORE WEEK OPENS---&gt;🚀\n https://t.co/rMVQhsZnhM"
-    },
-    {
-      "stockName": "Salesforce",
-      "text": "$NVDA #NVIDIA @NVIDIAFrance - 1H: La tendance haussière est actuellement très forte sur NVIDIA CORP.. Tant que le cours se maintient au dessus du support à , on pourrait chercher à... https://t.co/dCTBcHijql"
-    },
-    {
-      "stockName": "Spotify",
-      "text": "$NVDA #NVIDIA - 1H: La tendance haussière est actuellement très forte sur NVIDIA CORP.. Tant que le cours se maintient au dessus du support à , on pourrait chercher à... https://t.co/gO2P6y78Aq"
-    },
-    {
-      "stockName": "AMD",
-      "text": "$NVDA  *ALL THESE LEVELS POSTED AHEAD OF TIME BEFORE THE MARKET OPENED   📈📉🚀    https://t.co/9eUWVW8K42"
-    },
-    {
-      "stockName": "Cisco",
-      "text": "$NVDA   ALL THESE LEVELS POSTED AHEAD OF TIME BEFORE THE MARKET OPENED;- ---&gt;🚀\nhttps://t.co/nRPFqGpUzG"
-    },
-    {
-      "stockName": "Twitter",
-      "text": "$NVDA  Top analyst price target for the week--&gt; https://t.co/oww32VeXDc"
-    },
-    {
-      "stockName": "Zoom",
-      "text": "$nvda  Top analyst price target for next week  - https://t.co/4ALRtWxPq0"
-    },
-    {
-      "stockName": "Uber",
-      "text": "$NVDA Top analyst price target for the week📉🚀\nhttps://t.co/nOl72vigoX"
-    },
-    {
-      "stockName": "Snapchat",
-      "text": "$NVDA Top analyst target price for next week-- https://t.co/oww32VfvsK"
-    },
-    {
-      "stockName": "Shopify",
-      "text": "$NVDA  *ALL THESE LEVELS POSTED AHEAD OF TIME BEFORE THE MARKET OPENED   📈📉🚀    https://t.co/sgZ1aKFQT3"
-    }
-  ]
-  
+  { "stockName": "Google", "text": "Stock of Google is rising in a great way. Good news for investors." },
+  { "stockName": "Apple", "text": "Apple's stock shows strong upward momentum. A solid investment opportunity." },
+  { "stockName": "Amazon", "text": "Amazon shares are performing exceptionally well. Great news for shareholders." },
+  { "stockName": "Microsoft", "text": "Microsoft's stock is hitting new highs. Investors should be pleased." },
+  { "stockName": "Tesla", "text": "Tesla's stock is on a positive trajectory. Investors are in for a rewarding time." },
+  { "stockName": "Facebook", "text": "Facebook's stock is showing impressive gains. A bright outlook for investors." },
+  { "stockName": "Nvidia", "text": "Nvidia's shares are soaring. Excellent news for those holding the stock." },
+  { "stockName": "Netflix", "text": "Netflix's stock is experiencing a significant uptrend. A favorable sign for investors." },
+  { "stockName": "Intel", "text": "Intel's stock is making notable progress. A positive development for shareholders." },
+  { "stockName": "Adobe", "text": "Adobe's stock is performing well with strong gains. A good sign for the market." },
+  { "stockName": "IBM", "text": "IBM's stock is plummeting. Investors should be cautious." },
+  { "stockName": "Oracle", "text": "Oracle's stock is struggling. A concerning trend for shareholders." },
+  { "stockName": "Salesforce", "text": "Salesforce shares are experiencing a significant downturn. Investors might face challenges." },
+  { "stockName": "Cisco", "text": "Cisco's stock is falling sharply. A worrying sign for investors." },
+  { "stockName": "Adobe", "text": "Adobe's stock is dropping rapidly. Investors should be wary." },
+  { "stockName": "SAP", "text": "SAP's stock is in decline. Not a promising scenario for shareholders." },
+  { "stockName": "Qualcomm", "text": "Qualcomm's shares are experiencing a downturn. Investors might face losses." },
+  { "stockName": "Zoom", "text": "Zoom's stock is falling. A negative indicator for the market." },
+  { "stockName": "Palantir", "text": "Palantir's stock is struggling with poor performance. Investors should take note." },
+  { "stockName": "Square", "text": "Square's stock is declining sharply. A troubling sign for shareholders." }
+
+]
